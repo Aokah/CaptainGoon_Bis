@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/dracv/source/repos/Pong/Pong/Content/assets/backgrounds/Blue Nebula 1 - 1024x1024.png</File>
+    <File>C:/Users/dracv/source/repos/Pong/Pong/Content/assets/backgrounds/Planets.jpg</File>
+    <File>C:/Users/dracv/source/repos/Pong/Pong/Content/assets/badlogic.jpg</File>
+    <File>C:/Users/dracv/source/repos/Pong/Pong/Content/assets/sprites/ammo/aliendropping_small.png</File>
+    <File>C:/Users/dracv/source/repos/Pong/Pong/Content/assets/sprites/ammo/bullets/glowtube_small.png</File>
+    <File>C:/Users/dracv/source/repos/Pong/Pong/Content/assets/sprites/ammo/wship-4.png</File>
+    <File>C:/Users/dracv/source/repos/Pong/Pong/Content/assets/sprites/kisspng-sprite-explosion_pack/kisspng-sprite-explosion_pack.png</File>
+    <File>C:/Users/dracv/source/repos/Pong/Pong/Content/assets/sprites/kisspng-sprite-explosion_pack/kisspng-sprite-explosion_pack2.png</File>
+    <File>C:/Users/dracv/source/repos/Pong/Pong/Content/assets/sprites/kisspng-sprite-explosion_pack/kisspng-sprite-explosion_pack3.png</File>
+    <File>C:/Users/dracv/source/repos/Pong/Pong/Content/assets/sprites/ships/blueships1_small.png</File>
+    <File>C:/Users/dracv/source/repos/Pong/Pong/Content/assets/sprites/ships/roundysh_small.png</File>
+    <File>C:/Users/dracv/source/repos/Pong/Pong/Content/assets/sprites/ships/spco_small.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

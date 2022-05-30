@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Pong</id>
+    <version>1.0.0</version>
+    <authors>Pong</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.0.1641" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.DesktopGL" version="3.8.0.1641" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/backgrounds/Blue Nebula 1 - 1024x1024.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/backgrounds/Planets.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/badlogic.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/sprites/ammo/aliendropping_pack/aliendropping_pack.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/sprites/ammo/aliendropping_pack/dropping_pack.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/sprites/ammo/aliendropping_small.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/sprites/ammo/bullets/glowtube_small.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/sprites/ammo/wship-4.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/sprites/kisspng-sprite-explosion_pack/kisspng-sprite-explosion_pack.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/sprites/kisspng-sprite-explosion_pack/kisspng-sprite-explosion_pack2.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/sprites/kisspng-sprite-explosion_pack/kisspng-sprite-explosion_pack3.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/sprites/ships/blueships1_small.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/sprites/ships/roundysh_small.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/DesktopGL/Content/assets/sprites/ships/spco_small.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\bin\Debug\netcoreapp3.1\Pong.runtimeconfig.json" target="lib\netcoreapp3.1\Pong.runtimeconfig.json" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\bin\Debug\netcoreapp3.1\Pong.dll" target="lib\netcoreapp3.1\Pong.dll" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\backgrounds\Blue Nebula 1 - 1024x1024.xnb" target="content\Content\bin\DesktopGL\Content\assets\backgrounds\Blue Nebula 1 - 1024x1024.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\backgrounds\Blue Nebula 1 - 1024x1024.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\backgrounds\Blue Nebula 1 - 1024x1024.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\backgrounds\Planets.xnb" target="content\Content\bin\DesktopGL\Content\assets\backgrounds\Planets.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\backgrounds\Planets.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\backgrounds\Planets.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\badlogic.xnb" target="content\Content\bin\DesktopGL\Content\assets\badlogic.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\badlogic.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\badlogic.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ammo\aliendropping_pack\aliendropping_pack.xnb" target="content\Content\bin\DesktopGL\Content\assets\sprites\ammo\aliendropping_pack\aliendropping_pack.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ammo\aliendropping_pack\aliendropping_pack.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\sprites\ammo\aliendropping_pack\aliendropping_pack.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ammo\aliendropping_pack\dropping_pack.xnb" target="content\Content\bin\DesktopGL\Content\assets\sprites\ammo\aliendropping_pack\dropping_pack.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ammo\aliendropping_pack\dropping_pack.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\sprites\ammo\aliendropping_pack\dropping_pack.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ammo\aliendropping_small.xnb" target="content\Content\bin\DesktopGL\Content\assets\sprites\ammo\aliendropping_small.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ammo\aliendropping_small.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\sprites\ammo\aliendropping_small.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ammo\bullets\glowtube_small.xnb" target="content\Content\bin\DesktopGL\Content\assets\sprites\ammo\bullets\glowtube_small.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ammo\bullets\glowtube_small.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\sprites\ammo\bullets\glowtube_small.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ammo\wship-4.xnb" target="content\Content\bin\DesktopGL\Content\assets\sprites\ammo\wship-4.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ammo\wship-4.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\sprites\ammo\wship-4.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\kisspng-sprite-explosion_pack\kisspng-sprite-explosion_pack.xnb" target="content\Content\bin\DesktopGL\Content\assets\sprites\kisspng-sprite-explosion_pack\kisspng-sprite-explosion_pack.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\kisspng-sprite-explosion_pack\kisspng-sprite-explosion_pack.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\sprites\kisspng-sprite-explosion_pack\kisspng-sprite-explosion_pack.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\kisspng-sprite-explosion_pack\kisspng-sprite-explosion_pack2.xnb" target="content\Content\bin\DesktopGL\Content\assets\sprites\kisspng-sprite-explosion_pack\kisspng-sprite-explosion_pack2.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\kisspng-sprite-explosion_pack\kisspng-sprite-explosion_pack2.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\sprites\kisspng-sprite-explosion_pack\kisspng-sprite-explosion_pack2.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\kisspng-sprite-explosion_pack\kisspng-sprite-explosion_pack3.xnb" target="content\Content\bin\DesktopGL\Content\assets\sprites\kisspng-sprite-explosion_pack\kisspng-sprite-explosion_pack3.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\kisspng-sprite-explosion_pack\kisspng-sprite-explosion_pack3.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\sprites\kisspng-sprite-explosion_pack\kisspng-sprite-explosion_pack3.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ships\blueships1_small.xnb" target="content\Content\bin\DesktopGL\Content\assets\sprites\ships\blueships1_small.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ships\blueships1_small.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\sprites\ships\blueships1_small.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ships\roundysh_small.xnb" target="content\Content\bin\DesktopGL\Content\assets\sprites\ships\roundysh_small.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ships\roundysh_small.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\sprites\ships\roundysh_small.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ships\spco_small.xnb" target="content\Content\bin\DesktopGL\Content\assets\sprites\ships\spco_small.xnb" />
+    <file src="C:\Users\dracv\source\repos\Pong\Pong\Content\bin\DesktopGL\Content\assets\sprites\ships\spco_small.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\DesktopGL\Content\assets\sprites\ships\spco_small.xnb" />
+  </files>
+</package>
